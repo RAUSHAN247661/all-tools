@@ -1,0 +1,50 @@
+{
+  "name": "AI Tools Hub - Complete Directory of AI Tools for Content Creators",
+  "short_name": "AI Tools Hub",
+  "description": "Discover the best AI tools for content creation, video editing, audio enhancement, SEO, and more. Free directory of AI-powered tools for creators, marketers, and professionals.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f7fafc",
+  "theme_color": "#3182ce",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "lang": "en",
+  "categories": ["productivity", "utilities", "business"],
+  "icons": [
+    {
+      "src": "/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Content Research Tools",
+      "short_name": "Research",
+      "description": "Access content research and trend analysis tools",
+      "url": "/#content-research",
+      "icons": [{ "src": "/icon-192x192.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "Audio Tools",
+      "short_name": "Audio",
+      "description": "Access AI audio enhancement and editing tools",
+      "url": "/#audio-tools",
+      "icons": [{ "src": "/icon-192x192.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "Video Editing Tools",
+      "short_name": "Video",
+      "description": "Access AI video editing and enhancement tools",
+      "url": "/#video-editing",
+      "icons": [{ "src": "/icon-192x192.png", "sizes": "192x192" }]
+    }
+  ]
+} 
